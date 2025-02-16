@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Automated threat detection, incident response orchestration, and security tool integration| <a href="https://github.com/DarrenRamirez/SOAR---EDR-Project">Soar & EDR Project</a>|
+| Automated threat detection, incident response orchestration, and security tool integration| <a href="https://github.com/DarrenRamirez/SOAR---EDR-Project">Soar & EDR Project</a> and <a href="https://github.com/DarrenRamirez/soc-automation-project"> SOC Automation Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -69,4 +69,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - TCPdump Hands-on Capture and Filtering Project
 - Home Lab & Virtual Network Experience
 - <a href="https://github.com/DarrenRamirez/SOAR---EDR-Project">Soar & EDR Project</a>
+- <a href="https://github.com/DarrenRamirez/soc-automation-project"> SOC Automation Project</a>
 
