@@ -26,6 +26,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-LimaCharlie-137CBD?style=for-the-badge" alt="LimaCharlie Badge" />
     <img src="https://img.shields.io/badge/-TCPdump-0A7ECB?style=for-the-badge&logo=TCPdump&logoColor=white" alt="TCPdump Badge" />
     <img src="https://img.shields.io/badge/-Tines-F26841?style=for-the-badge" alt="Tines Badge" />
+    <br>
+    <img src="https://img.shields.io/badge/Shuffle-663399?style=for-the-badge" alt="Shuffle Badge" />
+    <img src="https://img.shields.io/badge/TheHive-F9C80F?style=for-the-badge" alt="TheHive Badge" />
 </div>
 
 ### Cloud-Based Technologies 
