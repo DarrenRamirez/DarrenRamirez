@@ -8,7 +8,6 @@ I am a cybersecurity and IT professional with a Bachelor of Arts in Mathematics 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -32,6 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud-Based Technologies 
 <div>
     <img src="https://img.shields.io/badge/-Vultr-007BFC?style=for-the-badge" alt="Vultr Badge"/>
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean Badge" />
     <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
 </div>
 
