@@ -66,12 +66,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://learn.microsoft.com/en-us/users/darrenramirez-9661/credentials/e73158468d77e3c"><img src="https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900 Badge"/>
 </div>
 
-
+https://github.com/DarrenRamirez/Home-Lab-Experience
 
 ## Projects
 - Wireshark Packet Analysis Project
 - TCPdump Hands-on Capture and Filtering Project
-- Home Lab & Virtual Network Experience
+- <a href="https://github.com/DarrenRamirez/Home-Lab-Experience">Home Lab & Virtual Network Experience</a>
 - <a href="https://github.com/DarrenRamirez/SOAR---EDR-Project">Soar & EDR Project</a>
 - <a href="https://github.com/DarrenRamirez/soc-automation-project"> SOC Automation Project</a>
 - <a href="https://github.com/DarrenRamirez/Active-directory-project">Active Directory Project</a>
