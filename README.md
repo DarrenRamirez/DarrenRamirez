@@ -18,6 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | <a href="https://github.com/DarrenRamirez/SOAR---EDR-Project">Soar & EDR Project</a> and <a href="https://github.com/DarrenRamirez/soc-automation-project"> SOC Automation Project</a>|
 | Simulated attacks with Atomic Red Team for threat validation.| <a href="https://github.com/DarrenRamirez/Active-directory-project">Active Directory Project</a>|
 | Cisco Router Configuration, VLAN Management & Network Segmentation| <a href="https://github.com/DarrenRamirez/Home-Lab-Experience">Home Lab & Virtual Network Experience</a>|
+| Raspberry Pi VPN Configuration & Network Security | <a href="https://github.com/DarrenRamirez/Raspberry-VPN">Raspberry Pi Vpn Setup</a>|
 
 ## Tools
 
@@ -73,4 +74,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/DarrenRamirez/SOAR---EDR-Project">Soar & EDR Project</a>
 - <a href="https://github.com/DarrenRamirez/soc-automation-project"> SOC Automation Project</a>
 - <a href="https://github.com/DarrenRamirez/Active-directory-project">Active Directory Project</a>
+- <a href="https://github.com/DarrenRamirez/Raspberry-VPN">Raspberry Pi Vpn Setup</a>
+
 
